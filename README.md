@@ -1,2 +1,2 @@
 # First-Demo
-That project are Demo project
+That project are Demo project.
